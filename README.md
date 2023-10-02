@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&customColorList=13,1,13&height=120&section=header&text=Lik.en&textBg=true&fontColor=FFFFFF"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=import+lik.en3&repeat=false)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=import+lik.en&repeat=false)](https://git.io/typing-svg)
 
 Lik.en que é um concatenador de tabelas que também faz a filtragem dos parâmetros. Feito especificamente para o LESF - Laboratório de Ecologia e Sistemática de Fanerógamas do DBZ da FEIS - UNESP.
 
